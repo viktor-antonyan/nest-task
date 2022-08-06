@@ -1,0 +1,5 @@
+{
+  "DELETE_FILE": "You have successfully deleted the file.",
+  "INVALID_IMAGE_TYPE": "Please enter valid image type.",
+  "INVALID_IMAGE_SIZE": "Please enter valid image size."
+}
